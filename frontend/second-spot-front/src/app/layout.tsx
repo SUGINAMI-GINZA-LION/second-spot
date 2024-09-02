@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
-import './globals.css';
+import './style/reset.css';
+import './style/globals.css';
 
 export const metadata: Metadata = {
   title: '2件目どうする',
